@@ -1,0 +1,57 @@
+
+		.login{
+			width: 320px;
+			height: 420px;
+			top: 65%;
+			left: 51%;
+			position: absolute;
+			transform: translate(-56%,-56%);
+			box-sizing: border-box;
+			background: #000;
+			color: #fff;
+			font-family: sans-serif;
+		}
+		.login p{
+			margin-left:50px;
+			font-weight: bold;
+		}
+		.login input{
+			width: 65%;
+			margin-left:  50px;
+
+		}
+		.login a{
+			margin-left: 75px;
+		}
+		.login a:hover{
+			color: white;
+		}
+		.login input[type="text"], input[type="password"]
+		{
+			border:none;
+			border-bottom: 1px solid #fff;
+			background: transparent;
+			outline: none;
+			color: #fff;  
+		}
+		.top{
+			width: 100%;
+			height: 20px;
+			color: black;
+		}
+		header{
+			width: 1306px;
+			height: 50px;
+			background-color: #001a00;
+			padding: 30px;
+    		text-align: center;
+    		font-size: 35px;
+    		color: white;
+    		font-family: sans-serif;
+
+
+		}
+		body{
+			padding: 0;
+			margin: 0;
+		}
